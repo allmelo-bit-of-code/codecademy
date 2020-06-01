@@ -16,3 +16,7 @@ pt :: exercício da CodeCademy sobre Iteradores; que filtra palavras de um texto
 4# LibraryObjs
 en :: exercise from CodeCademy about Classes; with classes and subclasses to manage objects from a Library
 pt :: exercício da CodeCademy sobre Classes; com classes e subclasses para gerir objetos de uma livraria
+
+5# NLW 
+en :: project proposed at Next Level Week, the Rocketseat programming week that takes place between June 1st and 7th, 2020
+pt :: projeto proposto no Next Level Week, a semana de programação da Rocketseat que acontece entre os dias 01 e 07 de junho de 2020
