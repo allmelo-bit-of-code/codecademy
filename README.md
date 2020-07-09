@@ -1,7 +1,7 @@
-# bit-of-code
-My (old) repository for exercises, drafts and learnings
+# Codecademy exercises
+My repository for exercises, drafts and learnings on Codecademy. 
 
-1# To-Do App
+1# To-Do App (yes, I know. Not from CodeCademy)
 en :: based on an exercise from the RocketSeat Starter course, I made this little To-Do app
 pt :: baseado em um exercício do curso Starter da RocketSeat, fiz este pequeno app To-Do
 
